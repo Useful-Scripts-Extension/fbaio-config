@@ -14,5 +14,23 @@
       "src": "https://i.ibb.co/CW59rCK/20-11.jpg",
       "style": "height:250px"
     }
-  }
+  },
+  "promoSection": [
+    {
+      "type": "separator",
+      "title": {
+        "en": "Promo",
+        "vi": "Khuyến mãi"
+      }
+    },
+    {
+      "id": "USEFUL-SCRIPT",
+      "icon": "<i class=\"fa-solid fa-up-right-from-square\"></i>",
+      "text": {
+        "en": "Useful Script: 200+ more free features",
+        "vi": "Useful Script: thêm 200+ chức năng miễn phí"
+      },
+      "url": "https://useful-scripts-extension.github.io/useful-script/popup/popup.html"
+    }
+  ]
 }
