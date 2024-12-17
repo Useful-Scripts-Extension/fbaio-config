@@ -31,6 +31,15 @@
         "vi": "Useful Script: thêm 200+ chức năng miễn phí"
       },
       "url": "https://useful-scripts-extension.github.io/useful-script/popup/popup.html"
+    },
+    {
+      "id": "TOPID",
+      "icon": "<i class=\"fa-solid fa-user-plus\"></i>",
+      "text": {
+        "en": "TopID: auto make friends with AI",
+        "vi": "TopID: tự động kết bạn dùng AI"
+      },
+      "url": "https://chromewebstore.google.com/detail/apkfbbbikiaebjbpkkbpipmihngckloe"
     }
   ]
 }
