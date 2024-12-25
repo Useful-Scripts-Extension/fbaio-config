@@ -1,18 +1,18 @@
 {
   "dashboard": "https://fb-aio.github.io",
   "freeVIP": {
-    "until": 1732208400000,
+    "until": 1735146000000,
     "title": {
-      "vi": "Tặng VIP<br/>Mừng ngày Nhà giáo Việt Nam 20/11",
-      "en": "Free VIP<br/>on Vietnamese Teachers' Day 20/11"
+      "vi": "Tặng VIP<br/>Mừng Giáng Sinh 2024 🎅🎄🎁✨",
+      "en": "Free VIP<br/>on Christmas Day 2024 🎅🎄🎁✨"
     },
     "text": {
-      "en": "VIP will be unlocked for FREE until end of day 21/11/2024",
-      "vi": "VIP sẽ được mở khoá Miễn Phí đến hết ngày 21/11/2024"
+      "en": "VIP will be unlocked for FREE until end of day 25/12/2024",
+      "vi": "VIP sẽ được mở khoá Miễn Phí đến hết ngày 25/12/2024"
     },
     "img": {
-      "src": "https://i.ibb.co/CW59rCK/20-11.jpg",
-      "style": "height:250px"
+      "src": "https://i.ibb.co/QjfT2Wp/4acb336b-513d-4593-a50f-61a396f95eb8.webp",
+      "style": "height:400px"
     }
   },
   "promoSection": [
