@@ -1,14 +1,14 @@
 {
   "dashboard": "https://fb-aio.github.io",
   "freeVIP": {
-    "until": 1735750800000,
+    "until": 1738321200000,
     "title": {
       "vi": "Tặng VIP<br/>Mừng Năm Mới 2025 🧧🎇🥳",
-      "en": "Free VIP<br/>Happy New Year 2025 🧧🎇🥳"
+      "en": "Free VIP<br/>Happy Lunar New Year 2025 🧧🎇🥳"
     },
     "text": {
-      "en": "VIP will be unlocked for FREE until end of day 01/01/2024",
-      "vi": "VIP sẽ được mở khoá Miễn Phí đến hết ngày 01/01/2024"
+      "en": "VIP will be unlocked for FREE until end of day 31/01/2024",
+      "vi": "VIP sẽ được mở khoá Miễn Phí đến hết ngày 31/01/2024"
     },
     "img": {
       "src": "https://cdn-media.sforum.vn/storage/app/media/ctv_seo10/background-tet-54.jpg",
