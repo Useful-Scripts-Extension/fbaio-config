@@ -1,45 +1,18 @@
 {
   "dashboard": "https://fb-aio.github.io",
   "freeVIP": {
-    "until": 1738321200000,
+    "until": 1741539600000,
     "title": {
-      "vi": "Tặng VIP<br/>Mừng Năm Mới 2025 🧧🎇🥳",
-      "en": "Free VIP<br/>Happy Lunar New Year 2025 🧧🎇🥳"
+      "vi": "Tặng VIP<br/>Mừng Quốc Tế Phụ Nữ 8/3 🌹",
+      "en": "Free VIP<br/>Happy Woman Day 8/3 🌹"
     },
     "text": {
-      "en": "VIP will be unlocked for FREE until end of day 31/01/2024",
-      "vi": "VIP sẽ được mở khoá Miễn Phí đến hết ngày 31/01/2024"
+      "en": "VIP will be unlocked for FREE until end of day 09/03/2025",
+      "vi": "VIP sẽ được mở khoá Miễn Phí đến hết ngày 09/03/2025"
     },
     "img": {
-      "src": "https://cdn-media.sforum.vn/storage/app/media/ctv_seo10/background-tet-54.jpg",
+      "src": "https://images5.alphacoders.com/113/1130764.jpg",
       "style": "width:400px"
     }
-  },
-  "promoSection": [
-    {
-      "type": "separator",
-      "title": {
-        "en": "🌟 Promo",
-        "vi": "🌟 Khuyến mãi"
-      }
-    },
-    {
-      "id": "USEFUL-SCRIPT",
-      "icon": "<i class=\"fa-solid fa-up-right-from-square\"></i>",
-      "text": {
-        "en": "Useful Script: 200+ more free features",
-        "vi": "Useful Script: thêm 200+ chức năng miễn phí"
-      },
-      "url": "https://useful-scripts-extension.github.io/useful-script/popup/popup.html"
-    },
-    {
-      "id": "TOPID",
-      "icon": "<i class=\"fa-solid fa-user-plus\"></i>",
-      "text": {
-        "en": "TopID: auto make friends with AI",
-        "vi": "TopID: tự động kết bạn dùng AI"
-      },
-      "url": "https://chromewebstore.google.com/detail/apkfbbbikiaebjbpkkbpipmihngckloe"
-    }
-  ]
+  }
 }
